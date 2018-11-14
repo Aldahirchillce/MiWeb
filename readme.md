@@ -10,5 +10,6 @@ Trabajaremos este sitio con el siguiente contenido:
 - Estudios Realizados
 - Afición y Hobbies
 - Fotos de lugares que haz visitado
+- Agregar datos de contacto
 
 ## Vamos a darle con todo.... si se puede
