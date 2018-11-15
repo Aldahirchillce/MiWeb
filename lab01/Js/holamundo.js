@@ -27,4 +27,3 @@ console.info("Este es un aviso de JavaSript")
 
 //Multiplicar tres numeros que son 10 x 25 x 105
 console.log(10 * 25 * 105)
-
